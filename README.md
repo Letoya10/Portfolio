@@ -1,3 +1,3 @@
 # portfolio
-This is my portfolio, or may online CV in simpler terms
+This is my portfolio, or my online 'mini CV' in simpler terms
 
